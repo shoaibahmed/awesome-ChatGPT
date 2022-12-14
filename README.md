@@ -10,6 +10,7 @@ Table of Contents:
   - [ChatGPT Utilities](#chatgpt-utilities)
   - [ChatGPT News](#chatgpt-news)
   - [Missing something?](#missing-something)
+  - [License](#license)
 
 
 ## Cool Demos
@@ -395,3 +396,7 @@ Table of Contents:
 ## Missing something?
 
 Please feel free to generate a PR with new and interesting demos that you think we missed.
+
+## License
+
+MIT
