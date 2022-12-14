@@ -2,15 +2,14 @@
 
 This is a small document containing interesting demos / analysis done on top of ChatGPT.
 
-Here is the list of sections in this document:
-
-1. Cool Demos
-2. Analysis / Failure Cases
-3. Twitter Threads
-4. ChatGPT Utilities
-5. ChatGPT News
-
-We refer to a detailed list of Twitter threads covering a large veriety of these use-cases at the bottom.
+Table of Contents:
+- [Awesome ChatGPT](#awesome-chatgpt)
+  - [Cool Demos](#cool-demos)
+  - [Analysis / Failure Cases](#analysis--failure-cases)
+  - [Twitter Threads](#twitter-threads)
+  - [ChatGPT Utilities](#chatgpt-utilities)
+  - [ChatGPT News](#chatgpt-news)
+  - [Missing something?](#missing-something)
 
 
 ## Cool Demos
