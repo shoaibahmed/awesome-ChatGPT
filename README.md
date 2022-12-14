@@ -253,7 +253,7 @@ We refer to a detailed list of Twitter threads covering a large veriety of these
 
 - Chrome extension that allows ChatGPT to search the internet
   - https://twitter.com/hahahahohohe/status/1599839969396154369?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/search_web_util.png '')
+    <!-- ![](images/search_web_util.png '') -->
 
 - Screenshot browser extension to help save ChatGPT outputs
   - https://twitter.com/Saboo_Shubham_/status/1600035851525918720
