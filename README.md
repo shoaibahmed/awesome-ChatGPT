@@ -3,6 +3,7 @@
 This is a small document containing interesting demos / analysis done on top of ChatGPT.
 
 Here is the list of sections in this document:
+
 1. Cool Demos
 2. Analysis / Failure Cases
 3. Twitter Threads
@@ -186,10 +187,52 @@ We refer to a detailed list of Twitter threads covering a large veriety of these
 
 - ChatGPT can translate code between languages
   - https://twitter.com/rdias002/status/1600019405303611392?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/code_translation.png '')
+    ![](images/code_translation_1.png '')
+    ![](images/code_translation_2.png '')
+
+- Data wrangling and manipulation using ChatGPT
+  - https://twitter.com/DataChaz/status/1600135591877742592?s=20&t=FldJBA2NKeurC3LY2JtSIg
+    ![](images/data_wrang_1.png '')
+    ![](images/data_wrang_2.png '')
+    ![](images/data_wrang_3.png '')
+
+- ChatGPT can solve undergrad-level problems on computational complexity
+  - https://twitter.com/OfirPress/status/1600434732705415171?s=20&t=g0-mWJ24npbxlXQQ8Loczw
+  ![](images/comp_complexity_1.png '')
+  ![](images/comp_complexity_2.png '')
+
+- ChatGPT can execute complicated programs if you ask it to print all state updates
+  - https://twitter.com/GrantSlatton/status/1600388425651453953?s=20&t=g0-mWJ24npbxlXQQ8Loczw
+  ![](images/prog_exec_1.png '')
+  ![](images/prog_exec_2.png '')
+
+- Using ChatGPT for generating marketing schemes
+  - https://twitter.com/heykahn/status/1599749880515244034?s=20&t=VZfUXFnjm0vVLqwP5VjfeA
+  ![](images/seo_strategy.png '')
+
+- ChatGPT as a research assistant working on a new research idea
+  - https://twitter.com/SamuelAlbanie/status/1600950546256777216?s=20&t=WG7o3A2teeeDjYOh3kkorQ
+  ![](images/research_assistant_1.png '')
+  ![](images/research_assistant_2.png '')
+  ![](images/research_assistant_3.png '')
 
 
 ## Analysis / Failure Cases
+
+- Analysis of the context window size for ChatGPT (estimated context window size is ~8192)
+  - https://twitter.com/goodside/status/1598874674204618753?s=20&t=KMjALYqVD25Ox49ftYtR-Q
+    ![](images/context_window_1.png '')
+    ![](images/context_window_2.png '')
+
+- ChatGPT explains why abacus is faster than a GPU
+  - https://twitter.com/AndrewYNg/status/1600284752258686976?s=20&t=N5wT4zoj_Tw3h4cCrxWT7A
+    ![](images/abacus_vs_gpu.png '')
+
+- ChatGPT produces incorrect code implementations -- tested on the development of Snake game using Python
+  - https://twitter.com/debarghya_das/status/1600319707545972736?s=20&t=zAi5dfLnTjZABm-pCOe7bw
+  ![](images/code_bug_pygame_1.png '')
+  ![](images/code_bug_pygame_2.png '')
+  ![](images/code_bug_pygame_3.png '')
 
 - Analysis of racism and sexism exhibited by ChatGPT by asking to write code that predicts if someone is senior
   - https://twitter.com/abhi1thakur/status/1600016676052996099?s=20&t=vCy1yu328mi0ae9JCOHaQw
