@@ -250,6 +250,23 @@ We refer to a detailed list of Twitter threads covering a large veriety of these
   - https://twitter.com/J_Roberts_1/status/1600931039446151168
     ![](images/object_recog.png '')
 
+- Use ChatGPT as a search engine
+  - https://twitter.com/jdjkelly/status/1598021488795586561
+    ![](images/search_engine_1.png '')
+    ![](images/search_engine_2.png '')
+
+- Using ChatGPT as an email writing assistant
+  - https://twitter.com/MatiasNisenson/status/1599186490483150850?s=20&t=hX3fNnQ97jNVJ1aSoH8MCg
+    ![](images/email_ceo.png '')
+
+- ChatGPT has significant knowledge of computer vision models
+  - https://twitter.com/ahatamiz1/status/1601671185699606528?s=20&t=s7ByjiyFIh7uPDE7T3YQMA
+    ![](images/vit_swin_comp.png '')
+
+- Use ChatGPT to attempt the practice bar exam -- passed with 70% marks
+  - https://twitter.com/pythonprimes/status/1601664776194912256?s=20&t=mJ1m-NJAb_o8DFmsuiRQfg
+    ![](images/bar_exam.png '')
+
 
 ## Analysis / Failure Cases
 
