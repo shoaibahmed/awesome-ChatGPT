@@ -15,9 +15,22 @@ We refer to a detailed list of Twitter threads covering a large veriety of these
 
 ## Cool Demos
 
-- ChatGPT explaining bugs in the code
-  - https://twitter.com/amasad/status/1598042665375105024?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/find_explain_bug.png '')
+<details>
+<summary>ChatGPT explaining bugs in the code</summary>
+<br>
+- https://twitter.com/amasad/status/1598042665375105024?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/find_explain_bug.png '')
+</details>
+
+
+<details>
+<summary>ChatGPT can help detect security vulnerabilities</summary>
+<br>
+- https://twitter.com/mazen160/status/1598351725756301313?s=20&t=vCy1yu328mi0ae9JCOHaQw
+    
+  ![](images/security_vulnerability.png '')
+</details>
 
 - ChatGPT can help detect security vulnerabilities
   - https://twitter.com/mazen160/status/1598351725756301313?s=20&t=vCy1yu328mi0ae9JCOHaQw
