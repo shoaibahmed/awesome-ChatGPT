@@ -198,23 +198,57 @@ We refer to a detailed list of Twitter threads covering a large veriety of these
 
 - ChatGPT can solve undergrad-level problems on computational complexity
   - https://twitter.com/OfirPress/status/1600434732705415171?s=20&t=g0-mWJ24npbxlXQQ8Loczw
-  ![](images/comp_complexity_1.png '')
-  ![](images/comp_complexity_2.png '')
+    ![](images/comp_complexity_1.png '')
+    ![](images/comp_complexity_2.png '')
 
 - ChatGPT can execute complicated programs if you ask it to print all state updates
   - https://twitter.com/GrantSlatton/status/1600388425651453953?s=20&t=g0-mWJ24npbxlXQQ8Loczw
-  ![](images/prog_exec_1.png '')
-  ![](images/prog_exec_2.png '')
+    ![](images/prog_exec_1.png '')
+    ![](images/prog_exec_2.png '')
 
 - Using ChatGPT for generating marketing schemes
   - https://twitter.com/heykahn/status/1599749880515244034?s=20&t=VZfUXFnjm0vVLqwP5VjfeA
-  ![](images/seo_strategy.png '')
+    ![](images/seo_strategy.png '')
 
 - ChatGPT as a research assistant working on a new research idea
   - https://twitter.com/SamuelAlbanie/status/1600950546256777216?s=20&t=WG7o3A2teeeDjYOh3kkorQ
   ![](images/research_assistant_1.png '')
   ![](images/research_assistant_2.png '')
   ![](images/research_assistant_3.png '')
+
+- ChatGPT IQ and personality test -- IQ of 82 / personality test - ISTJ
+  - https://twitter.com/debarghya_das/status/1601044729759641600
+    ![](images/personality_test_istj_a.png '')
+  - https://twitter.com/Aella_Girl/status/1601378034317111296?s=20&t=X8hCUxTEDLllTz1FaHKYSQ (personality test - ISTJ)
+
+- Use ChatGPT to attempt the AWS cloud certification. ChatGPT: 800 / 1000 -- pass score is 720
+  - https://twitter.com/StephaneMaarek/status/1600864604220964871?s=20&t=f20SUicqapNaRTKoAR2xnQ
+    ![](images/aws_cloud_cert.png '')
+
+- Thank you note to students using ChatGPT
+  - https://twitter.com/jbhuang0604/status/1601020898303438849?s=20&t=f20SUicqapNaRTKoAR2xnQ
+    ![](images/email_thank_students.png '')
+
+- Writing a cold email to a professor expressing your interest in their research
+  - https://twitter.com/CSProfKGD/status/1601222306562740225?s=20&t=f20SUicqapNaRTKoAR2xnQ
+    ![](images/email_potential_advisor.png '')
+
+- Playing chess using natural language interface
+  - https://twitter.com/MattNiessner/status/1601549899010822144?s=20&t=dJzFmbEwQLtJfB6xYc1AMw
+  - https://www.chess.com/forum/view/general/chat-gpt
+    ![](images/chess_moves.png '')
+
+- Using ChatGPT to play Tetris
+  - https://twitter.com/zehavoc/status/1599193444043268096
+    ![](images/tetris.png '')
+
+- Using ChatGPT to play Tic Tac Toe
+  - https://twitter.com/zehavoc/status/1599196623141470208
+    ![](images/tic_tac_toe.png '')
+
+- Using ChatGPT to for object recognition based on a textual description of the given image
+  - https://twitter.com/J_Roberts_1/status/1600931039446151168
+    ![](images/object_recog.png '')
 
 
 ## Analysis / Failure Cases
