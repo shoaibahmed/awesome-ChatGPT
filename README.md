@@ -267,6 +267,18 @@ We refer to a detailed list of Twitter threads covering a large veriety of these
   - https://twitter.com/pythonprimes/status/1601664776194912256?s=20&t=mJ1m-NJAb_o8DFmsuiRQfg
     ![](images/bar_exam.png '')
 
+- Use ChatGPT to write unit tests
+  - https://twitter.com/DataChaz/status/1601982020279832577?s=20&t=KPYtMZP8EhRetVY1LAExMQ
+    ![](images/unit_tests.png '')
+
+- Using ChatGPT to create virtual chat room
+  - https://twitter.com/DataChaz/status/1601982020279832577?s=20&t=KPYtMZP8EhRetVY1LAExMQ
+    ![](images/chat_dnd.png '')
+
+- Using ChatGPT as a "BF simulator"
+  - https://twitter.com/michael_nielsen/status/1598476830272802816
+    ![](images/bf_simulator.png '')
+
 
 ## Analysis / Failure Cases
 
@@ -341,6 +353,9 @@ We refer to a detailed list of Twitter threads covering a large veriety of these
 
 - A good discussion on trying to reproduce some failure cases of GPT-davinci-002 -- mostly, ChatGPT succeeds, leaving the previous analysis of failure cases ineffective
   - https://twitter.com/stanislavfort/status/1599417463199830017
+
+- Way to get around ChatGPT's safeguards
+  - https://twitter.com/davisblalock/status/1602600453555961856?s=20&t=uaLkWR6vEzU_KnPkxFli7g
 
 
 ## ChatGPT Utilities
