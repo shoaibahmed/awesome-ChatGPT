@@ -756,6 +756,10 @@ Table of Contents:
 - Ways to get around ChatGPT's safeguards
   - https://twitter.com/davisblalock/status/1602600453555961856?s=20&t=uaLkWR6vEzU_KnPkxFli7g
 
+- Couple of tweets spectulating / discussing the costs of running ChatGPT
+  - https://twitter.com/tomgoldsteincs/status/1600196981955100694
+  - https://twitter.com/sama/status/1599671496636780546
+
 
 ## ChatGPT Utilities
 
