@@ -604,6 +604,17 @@ Table of Contents:
   ![](images/new_emotion.png '')
 </details>
 
+<details>
+<summary>Using ChatGPT to bargain for an Adobe subscription deal</summary>
+<br>
+
+- https://twitter.com/der_flow_/status/1599757320551948289?s=20&t=K2GTWlA3M0q2c6_VxBKUDA
+
+  ![](images/adobe_bargain_1.png '')
+  ![](images/adobe_bargain_2.png '')
+  ![](images/adobe_bargain_3.png '')
+</details>
+
 
 ## Analysis / Failure Cases
 
