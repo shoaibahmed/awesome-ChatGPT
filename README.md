@@ -759,6 +759,7 @@ Table of Contents:
 - Couple of tweets spectulating / discussing the costs of running ChatGPT
   - https://twitter.com/tomgoldsteincs/status/1600196981955100694
   - https://twitter.com/sama/status/1599671496636780546
+  - https://twitter.com/nbashaw/status/1599949577821786113
 
 
 ## ChatGPT Utilities
