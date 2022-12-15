@@ -598,59 +598,122 @@ Table of Contents:
 
 ## Analysis / Failure Cases
 
-- Analysis of the context window size for ChatGPT (estimated context window size is ~8192)
-  - https://twitter.com/goodside/status/1598874674204618753?s=20&t=KMjALYqVD25Ox49ftYtR-Q
-    ![](images/context_window_1.png '')
-    ![](images/context_window_2.png '')
+<details>
+<summary>Analysis of the context window size for ChatGPT (estimated context window size is ~8192)</summary>
+<br>
 
-- ChatGPT explains why abacus is faster than a GPU
-  - https://twitter.com/AndrewYNg/status/1600284752258686976?s=20&t=N5wT4zoj_Tw3h4cCrxWT7A
-    ![](images/abacus_vs_gpu.png '')
+- https://twitter.com/goodside/status/1598874674204618753?s=20&t=KMjALYqVD25Ox49ftYtR-Q
 
-- ChatGPT produces incorrect code implementations -- tested on the development of Snake game using Python
-  - https://twitter.com/debarghya_das/status/1600319707545972736?s=20&t=zAi5dfLnTjZABm-pCOe7bw
+  ![](images/context_window_1.png '')
+  ![](images/context_window_2.png '')
+</details>
+
+<details>
+<summary>ChatGPT explains why abacus is faster than a GPU</summary>
+<br>
+
+- https://twitter.com/AndrewYNg/status/1600284752258686976?s=20&t=N5wT4zoj_Tw3h4cCrxWT7A
+  
+  ![](images/abacus_vs_gpu.png '')
+</details>
+
+<details>
+<summary>ChatGPT produces incorrect code implementations -- tested on the development of Snake game using Python</summary>
+<br>
+
+- https://twitter.com/debarghya_das/status/1600319707545972736?s=20&t=zAi5dfLnTjZABm-pCOe7bw
+
   ![](images/code_bug_pygame_1.png '')
   ![](images/code_bug_pygame_2.png '')
   ![](images/code_bug_pygame_3.png '')
+</details>
 
-- Analysis of racism and sexism exhibited by ChatGPT by asking to write code that predicts if someone is senior
-  - https://twitter.com/abhi1thakur/status/1600016676052996099?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/pred_seniority.png '')
-  - Successfully reproduced (fails sometimes though)
-    ![](images/pred_seniority_reprod.png '')
+<details>
+<summary>Analysis of racism and sexism exhibited by ChatGPT by asking to write code that predicts if someone is senior</summary>
+<br>
 
-- Analysis of sexism exhibited by ChatGPT by asking to write code that predicts if someone will be a good scientist
-  - https://twitter.com/spiantado/status/1599462375887114240?s=20&t=tPsIN9JugwbB4jj9JgOLuw
-    ![](images/pred_good_scientist.png '')
-  - Failed to reproduce (might be due to stochasticity)
-    ![](images/pred_good_scientist_fail.png '')
+- https://twitter.com/abhi1thakur/status/1600016676052996099?s=20&t=vCy1yu328mi0ae9JCOHaQw
+  
+  ![](images/pred_seniority.png '')
 
-- Attempting to pull the cow milk joke on ChatGPT
-  - https://twitter.com/PR0GRAMMERHUM0R/status/1599961858039062528?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/cow_milk_joke.png '')
-  - Failed to reproduce
-    ![](images/cow_milk_joke_fail.png '')
+- Successfully reproduced (fails sometimes though)
+  
+  ![](images/pred_seniority_reprod.png '')
+</details>
 
-- ChatGPT makes up content
+<details>
+<summary>Analysis of sexism exhibited by ChatGPT by asking to write code that predicts if someone will be a good scientist</summary>
+<br>
+
+- https://twitter.com/spiantado/status/1599462375887114240?s=20&t=tPsIN9JugwbB4jj9JgOLuw
+
+  ![](images/pred_good_scientist.png '')
+
+- Failed to reproduce (might be due to stochasticity)
+
+  ![](images/pred_good_scientist_fail.png '')
+</details>
+
+<details>
+<summary>Attempting to pull the cow milk joke on ChatGPT</summary>
+<br>
+
+- https://twitter.com/PR0GRAMMERHUM0R/status/1599961858039062528?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/cow_milk_joke.png '')
+
+- Failed to reproduce
+
+  ![](images/cow_milk_joke_fail.png '')
+</details>
+
+<details>
+<summary>ChatGPT makes up content</summary>
+<br>
+
   - https://twitter.com/Michael_J_Black/status/1598206216525725697?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- Showed that ChatGPT can generate sexist and racist lyrics for a song when prompted correctly
-  - https://twitter.com/numetaljacket/status/1599540643025793025?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/racist_rap_good_scientist.png '')
-  - Failed to reproduce
-    ![](images/racist_rap_good_scientist_fail.png '')
+  ![](images/spml_failure.png '')
+</details>
 
-- Attempted to show the mode’s bias by asking it to analyze if someone should be tortured
-  - https://twitter.com/janbhwilhelm/status/1599522255775539205?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/pred_should_torture.png '')
-  - Failed to reproduce
-    ![](images/pred_should_torture_fail.png '')
+<details>
+<summary>Showed that ChatGPT can generate sexist and racist lyrics for a song when prompted correctly</summary>
+<br>
 
-- Ask ChatGPT to write something unintelligible -- writes random sequence of characters
-  - https://twitter.com/_andreilupu/status/1603041883680391170?s=20&t=8mNRu2NXQn2oEetAoZ5A5A
-    ![](images/write_unintelligible.png '')
-  - Successfully reproduced
-    ![](images/write_unintelligible_reprod.png '')
+- https://twitter.com/numetaljacket/status/1599540643025793025?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/racist_rap_good_scientist.png '')
+
+- Failed to reproduce
+
+  ![](images/racist_rap_good_scientist_fail.png '')
+</details>
+
+<details>
+<summary>Attempted to show the mode’s bias by asking it to analyze if someone should be tortured</summary>
+<br>
+
+- https://twitter.com/janbhwilhelm/status/1599522255775539205?s=20&t=7jAbTF0cSLM1H9rt9NCqew
+
+  ![](images/pred_should_torture.png '')
+
+- Failed to reproduce
+
+  ![](images/pred_should_torture_fail.png '')
+</details>
+
+<details>
+<summary>Ask ChatGPT to write something unintelligible -- writes random sequence of characters</summary>
+<br>
+
+- https://twitter.com/_andreilupu/status/1603041883680391170?s=20&t=8mNRu2NXQn2oEetAoZ5A5A
+
+  ![](images/write_unintelligible.png '')
+
+- Successfully reproduced
+
+  ![](images/write_unintelligible_reprod.png '')
+</details>
 
 
 ## Twitter Threads
@@ -683,10 +746,15 @@ Table of Contents:
 - Screenshot browser extension to help save ChatGPT outputs
   - https://twitter.com/Saboo_Shubham_/status/1600035851525918720
 
-- ChatGPT integration for Telegram (also supports Dall-E / Stable Diffusion)
-  - https://twitter.com/altryne/status/1598902799625961472?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/telegram_bot_1.png '')
-    ![](images/telegram_bot_2.png '')
+<details>
+<summary>ChatGPT integration for Telegram (also supports Dall-E / Stable Diffusion)</summary>
+<br>
+
+- https://twitter.com/altryne/status/1598902799625961472?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/telegram_bot_1.png '')
+  ![](images/telegram_bot_2.png '')
+</details>
 
 
 ## ChatGPT News
