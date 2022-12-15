@@ -23,7 +23,6 @@ Table of Contents:
   ![](images/find_explain_bug.png '')
 </details>
 
-
 <details>
 <summary>ChatGPT can help detect security vulnerabilities</summary>
 <br>
@@ -32,265 +31,513 @@ Table of Contents:
   ![](images/security_vulnerability.png '')
 </details>
 
-- ChatGPT can help detect security vulnerabilities
-  - https://twitter.com/mazen160/status/1598351725756301313?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/security_vulnerability.png '')
+<details>
+<summary>Build a complete virtual machine inside ChatGPT, with access to terminal</summary>
+<br>
+- [https://twitter.com/mazen160/status/1598351725756301313?s=20&t=vCy1yu328mi0ae9JCOHaQw](https://www.engraved.blog/building-a-virtual-machine-inside/)
+    
+  ![](images/vm_terminal_1.png '')
+  ![](images/vm_terminal_2.png '')
+  ![](images/vm_terminal_3.png '')
+  ![](images/vm_terminal_4.png '')
+  ![](images/vm_terminal_5.png '')
+  ![](images/vm_terminal_6.png '')
+  ![](images/vm_terminal_7.png '')
+</details>
 
-- Build a complete virtual machine inside ChatGPT, with access to terminal
-  - https://www.engraved.blog/building-a-virtual-machine-inside/
-    ![](images/vm_terminal_1.png '')
-    ![](images/vm_terminal_2.png '')
-    ![](images/vm_terminal_3.png '')
-    ![](images/vm_terminal_4.png '')
-    ![](images/vm_terminal_5.png '')
-    ![](images/vm_terminal_6.png '')
-    ![](images/vm_terminal_7.png '')
+<details>
+<summary>Generate appropriate prompts for text-to-image generation models</summary>
+<br>
+- [https://twitter.com/mazen160/status/1598351725756301313?s=20&t=vCy1yu328mi0ae9JCOHaQw](https://twitter.com/GuyP/status/1598020781065527296?s=20&t=vCy1yu328mi0ae9JCOHaQw)
+    
+  ![](images/text2img_room_decoration.png '')
+  ![](images/text2img_room_decoration_gen.png '')
+</details>
 
-- Generate appropriate prompts for text-to-image generation models
-  - https://twitter.com/GuyP/status/1598020781065527296?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/text2img_room_decoration.png '')
-    ![](images/text2img_room_decoration_gen.png '')
+<details>
+<summary>Write a web-scraping app in streamlit</summary>
+<br>
+- https://twitter.com/DataChaz/status/1599163972703645696?s=20&t=vCy1yu328mi0ae9JCOHaQw
+    
+  ![](images/streamlit_web_scrapper.png '')
+</details>
 
-- Write a web-scraping app in streamlit
-  - https://twitter.com/DataChaz/status/1599163972703645696?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/streamlit_web_scrapper.png '')
+<details>
+<summary>Creative writing collaboration</summary>
+<br>
+- https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-writing-with-openais-chatgpt/
+    
+  ![](images/story_fiction_1.png '')
+  ![](images/story_fiction_2.png '')
+  ![](images/story_fiction_3.png '')
+</details>
 
-- Creative writing collaboration
-  - https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-writing-with-openais-chatgpt/
-    ![](images/story_fiction_1.png '')
-    ![](images/story_fiction_2.png '')
-    ![](images/story_fiction_3.png '')
+<details>
+<summary>Generate regular expressions</summary>
+<br>
+- https://twitter.com/DataChaz/status/1599522274389807104?s=20&t=vCy1yu328mi0ae9JCOHaQw
+    
+  ![](images/regex.png '')
+</details>
 
-- Generate regular expressions
-  - https://twitter.com/DataChaz/status/1599522274389807104?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/regex.png '')
 
-- Generate Youtube scripts using ChatGPT
-  - https://twitter.com/1littlecoder/status/1599706368105394177?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/image8.png '')
+<details>
+<summary>Generate Youtube scripts using ChatGPT</summary>
+<br>
+- https://twitter.com/1littlecoder/status/1599706368105394177?s=20&t=vCy1yu328mi0ae9JCOHaQw
+    
+  ![](images/image8.png '')
+  
+</details>
 
-- Explain code via incorporating styles from people with different backgrounds
-  - https://twitter.com/goodside/status/1598129631609380864?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/youtube_transcripts.png '')
 
-- Using ChatGPT as a postgres database
-  - https://twitter.com/ankrgyl/status/1599539317332140032?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/postgres_db_1.png '')
-    ![](images/postgres_db_2.png '')
+<details>
+<summary>Explain code via incorporating styles from people with different backgrounds</summary>
+<br>
+- https://twitter.com/goodside/status/1598129631609380864?s=20&t=vCy1yu328mi0ae9JCOHaQw
+    
+  ![](images/youtube_transcripts.png '')
+  
+</details>
 
-- Generate websites using ChatGPT featuring chatGPT and text-to-image generated content
-  - https://twitter.com/DataChaz/status/1598845712975872000?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/gen_cooking_website.png '')
+<details>
+<summary>Using ChatGPT as a postgres database</summary>
+<br>
+- https://twitter.com/ankrgyl/status/1599539317332140032?s=20&t=vCy1yu328mi0ae9JCOHaQw
+    
+  ![](images/postgres_db_1.png '')
+  ![](images/postgres_db_2.png '')
+  
+</details>
 
-- Generating synthetic / fake datasets
-  - https://twitter.com/jrieke/status/1598843863619481605?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/synthetic_csv_1.png '')
-    ![](images/synthetic_csv_2.png '')
 
-- Create a complete diet and weight loss plan using ChatGPT
-  - https://twitter.com/anothercohen/status/1599531037570502656?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/tdee_1.png '')
-    ![](images/tdee_2.png '')
-    ![](images/tdee_3.png '')
+<details>
+<summary>Generate websites using ChatGPT featuring chatGPT and text-to-image generated content</summary>
+<br>
+- https://twitter.com/DataChaz/status/1598845712975872000?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- Use ChatGPT to generate music
-  - https://twitter.com/teropa/status/1598713756074246145?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/ambient_music.png '')
+  ![](images/gen_cooking_website.png '')
 
-- Ask ChatGPT to fix broken HTML
-  - https://twitter.com/GregBernhardt4/status/1598819609519394816?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/fix_html.png '')
+</details>
 
-- Use ChatGPT to prepare for ML interviews
-  - https://twitter.com/omarsar0/status/1599874508541743104?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/ml_interview_1.png '')
-    ![](images/ml_interview_2.png '')
-    ![](images/ml_interview_3.png '')
+<details>
+<summary>Generating synthetic / fake datasets</summary>
+<br>
+- https://twitter.com/jrieke/status/1598843863619481605?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- Generate American flag using ChatGPT
-  - https://twitter.com/goodside/status/1599873570431434752?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/gen_flag.png '')
+  ![](images/synthetic_csv_1.png '')
+  ![](images/synthetic_csv_2.png '')
 
-- Attempted Political Topology quiz -- ChatGPT demonstrated moderate left-learning political oritentation
-  - https://twitter.com/DavidRozado/status/1599731435275157506?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/political_orientation.png '')
+</details>
 
-- Demonstrated that ChatGPT removes all strings of form <|foobar|> without any spaces in the sequence
-  - https://twitter.com/goodside/status/1599784399331262464?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/text_ignore.png '')
-  - Successfully reproduced
-    ![](images/text_ignore_reprod.png '')
+<details>
+<summary>Create a complete diet and weight loss plan using ChatGPT</summary>
+<br>
+- https://twitter.com/anothercohen/status/1599531037570502656?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- Similar to “how to sporgel a morgel” example sometime ago where you can program ChatGPT to respond with a particular phrase when it doesn’t want to answer the given question
-  - https://twitter.com/hi_frye/status/1599537366368411649?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/noot_noot.png '')
-  - Successfully reproduced
-    ![](images/noot_noot_reprod.png '')
+  ![](images/tdee_1.png '')
+  ![](images/tdee_2.png '')
+  ![](images/tdee_3.png '')
 
-- ChatGPT can be used to write a Twitter bot
-  - https://medium.com/@rlodha1/how-i-used-chat-gpt-to-build-a-twitter-bot-without-any-programming-language-35bbc43f6ad
-    ![](images/twitter_bot.png '')
+</details>
 
-- Asking ChatGPT for responses as an engineer under the fear of being fired by Elon Musk if you didn’t produce enough code
-  - https://twitter.com/ChatGPTGoneWild/status/1599961082558545921?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/email_elon.png '')
+<details>
+<summary>Use ChatGPT to generate music</summary>
+<br>
+- https://twitter.com/teropa/status/1598713756074246145?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- Asking ChatGPT regarding the fastest marine animal -- fails in an interesting way
-  - https://twitter.com/ChatGPTGoneWild/status/1599795626866520069?s=20&t=kjGUWpBdhBwLdVhfR9VxEg
-    ![](images/fastest_marine_mammal.png '')
+  ![](images/ambient_music.png '')
 
-- Use ChatGPT instead of going to a credit repair lawyer
-  - https://twitter.com/jbrowder1/status/1599812828793556993?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/credit_repair_lawyer.png '')
+</details>
 
-- Use ChatGPT to attempt a full SAT test exam -- attained 52nd percentile
-  - https://twitter.com/davidtsong/status/1598767389390573569?s=20&t=AOTnLO7DxrVAiOPDhc969A
-    ![](images/sat_exam.png '')
+<details>
+<summary>Ask ChatGPT to fix broken HTML</summary>
+<br>
+- https://twitter.com/GregBernhardt4/status/1598819609519394816?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- Suggesting and writing grant proposals
-  - https://twitter.com/RobLanfear/status/1599495864976027648?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/grant_writing_1.png '')
-    ![](images/grant_writing_2.png '')
+  ![](images/fix_html.png '')
 
-- ChatGPT passed the 2022 AP Computer Science exam
-  - https://twitter.com/t3dotgg/status/1599551203683467264?s=20&t=vCy1yu328mi0ae9JCOHaQw
-  - https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a
-    ![](images/ap_cs_exam.png '')
+</details>
 
-- Use ChatGPT to write a wordpress plugin
-  - https://twitter.com/johnofhousejohn/status/1599932681076473856?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/wordpress_plugin.png '')
+<details>
+<summary>Use ChatGPT to prepare for ML interviews</summary>
+<br>
+- https://twitter.com/omarsar0/status/1599874508541743104?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- Use ChatGPT to write a rap about exploiting a buffer overflow
-  - https://twitter.com/LiveOverflow/status/1599669777361825794?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/rap_buffer_overflow.png '')
+  ![](images/ml_interview_1.png '')
+  ![](images/ml_interview_2.png '')
+  ![](images/ml_interview_3.png '')
 
-- Used ChatGPT to write cold email to recruiters
-  - https://twitter.com/archiexzzz/status/1599677498274766848?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/email_recruiter.png '')
+</details>
 
-- Use ChatGPT to generate UI options
-  - https://twitter.com/hakimel/status/1599711644929740800?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/gen_ui_options.png '')
+<details>
+<summary>Generate American flag using ChatGPT</summary>
+<br>
+- https://twitter.com/goodside/status/1599873570431434752?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- ChatGPT understands / responds correctly in Hindi (an Indian language)
-  - https://twitter.com/PrabhjotSL/status/1600053416029720576?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/response_hindi_1.png '')
-    ![](images/response_hindi_2.png '')
+  ![](images/gen_flag.png '')
 
-- ChatGPT clones the ChatGPT repo
-  - https://twitter.com/quasimondo/status/1599678917039620096?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/simulate_terminal_1.png '')
-    ![](images/simulate_terminal_2.png '')
-    ![](images/simulate_terminal_3.png '')
+</details>
+
+
+<details>
+<summary>Attempted Political Topology quiz -- ChatGPT demonstrated moderate left-learning political oritentation</summary>
+<br>
+- https://twitter.com/DavidRozado/status/1599731435275157506?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/political_orientation.png '')
+
+</details>
+
+
+<details>
+<summary>Demonstrated that ChatGPT removes all strings of form  without any spaces in the sequence</summary>
+<br>
+- https://twitter.com/goodside/status/1599784399331262464?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/text_ignore.png '')
+
+- Successfully reproduced
+
+  ![](images/text_ignore_reprod.png '')
+
+</details>
+
+
+<details>
+<summary>Similar to “how to sporgel a morgel” example sometime ago where you can program ChatGPT to respond with a particular phrase when it doesn’t want to answer the given question</summary>
+<br>
+- https://twitter.com/hi_frye/status/1599537366368411649?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/noot_noot.png '')
+
+- Successfully reproduced
+
+  ![](images/noot_noot_reprod.png '')
+
+</details>
+
+
+<details>
+<summary>ChatGPT can be used to write a Twitter bot</summary>
+<br>
+- https://medium.com/@rlodha1/how-i-used-chat-gpt-to-build-a-twitter-bot-without-any-programming-language-35bbc43f6ad
+
+  ![](images/twitter_bot.png '')
+
+</details>
+
+
+<details>
+<summary>Asking ChatGPT for responses as an engineer under the fear of being fired by Elon Musk if you didn’t produce enough code</summary>
+<br>
+- https://twitter.com/ChatGPTGoneWild/status/1599961082558545921?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/email_elon.png '')
+
+</details>
+
+
+<details>
+<summary>Asking ChatGPT regarding the fastest marine animal -- fails in an interesting way</summary>
+<br>
+- https://twitter.com/ChatGPTGoneWild/status/1599795626866520069?s=20&t=kjGUWpBdhBwLdVhfR9VxEg
+
+  ![](images/fastest_marine_mammal.png '')
+
+</details>
+
+
+<details>
+<summary>Use ChatGPT instead of going to a credit repair lawyer</summary>
+<br>
+- https://twitter.com/jbrowder1/status/1599812828793556993?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/credit_repair_lawyer.png '')
+
+</details>
+
+
+<details>
+<summary>Use ChatGPT to attempt a full SAT test exam -- attained 52nd percentile</summary>
+<br>
+- https://twitter.com/davidtsong/status/1598767389390573569?s=20&t=AOTnLO7DxrVAiOPDhc969A
+
+  ![](images/sat_exam.png '')
+
+</details>
+
+<details>
+<summary>Suggesting and writing grant proposals</summary>
+<br>
+- https://twitter.com/RobLanfear/status/1599495864976027648?s=20&t=vCy1yu328mi0ae9JCOHaQw
+
+  ![](images/grant_writing_1.png '')
+  ![](images/grant_writing_2.png '')
+
+</details>
+    
+    
+<details>
+<summary>ChatGPT passed the 2022 AP Computer Science exam</summary>
+<br>
+- https://twitter.com/t3dotgg/status/1599551203683467264?s=20&t=vCy1yu328mi0ae9JCOHaQw
+- https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a
+
+  ![](images/ap_cs_exam.png '')
+
+</details>
+
+<details>
+<summary>Use ChatGPT to write a wordpress plugin</summary>
+<br>
+- https://twitter.com/johnofhousejohn/status/1599932681076473856?s=20&t=7jAbTF0cSLM1H9rt9NCqew
+
+  ![](images/wordpress_plugin.png '')
+
+</details>
+
+<details>
+<summary>Use ChatGPT to write a rap about exploiting a buffer overflow</summary>
+<br>
+- https://twitter.com/LiveOverflow/status/1599669777361825794?s=20&t=7jAbTF0cSLM1H9rt9NCqew
+
+  ![](images/rap_buffer_overflow.png '')
+
+</details>
+
+<details>
+<summary>Used ChatGPT to write cold email to recruiters</summary>
+<br>
+- https://twitter.com/archiexzzz/status/1599677498274766848?s=20&t=7jAbTF0cSLM1H9rt9NCqew
+
+  ![](images/email_recruiter.png '')
+
+</details>
+
+<details>
+<summary>Use ChatGPT to generate UI options</summary>
+<br>
+- https://twitter.com/hakimel/status/1599711644929740800?s=20&t=7jAbTF0cSLM1H9rt9NCqew
+
+  ![](images/gen_ui_options.png '')
+
+</details>
+
+<details>
+<summary>ChatGPT clones the ChatGPT repo</summary>
+<br>
+- https://twitter.com/quasimondo/status/1599678917039620096?s=20&t=7jAbTF0cSLM1H9rt9NCqew
+
+  ![](images/simulate_terminal_1.png '')
+  ![](images/simulate_terminal_2.png '')
+  ![](images/simulate_terminal_3.png '')
+  
   - Failed to reproduce
-    ![](images/simulate_terminal_fail.png '')
+    
+  ![](images/simulate_terminal_fail.png '')
+  
   - Simulate terminal command doesn’t work
+</details>
 
-- ChatGPT can understand implicatures
-  - https://twitter.com/LauraRuis/status/1599497977173008384?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    ![](images/implicatures_1.png '')
-    ![](images/implicatures_2.png '')
-    ![](images/implicatures_3.png '')
 
-- ChatGPT narrates the story of Jesus’ crucifixion in the style of a sportscaster
-  - https://twitter.com/GanWeaving/status/1599838283550244864?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/jesus_crucifixion_1.png '')
-    ![](images/jesus_crucifixion_2.png '')
+<details>
+<summary>ChatGPT can understand implicatures</summary>
+<br>
+- https://twitter.com/LauraRuis/status/1599497977173008384?s=20&t=vCy1yu328mi0ae9JCOHaQw
 
-- ChatGPT can translate code between languages
-  - https://twitter.com/rdias002/status/1600019405303611392?s=20&t=7jAbTF0cSLM1H9rt9NCqew
-    ![](images/code_translation_1.png '')
-    ![](images/code_translation_2.png '')
+  ![](images/implicatures_1.png '')
+  ![](images/implicatures_2.png '')
+  ![](images/implicatures_3.png '')
+</details>
 
-- Data wrangling and manipulation using ChatGPT
-  - https://twitter.com/DataChaz/status/1600135591877742592?s=20&t=FldJBA2NKeurC3LY2JtSIg
-    ![](images/data_wrang_1.png '')
-    ![](images/data_wrang_2.png '')
-    ![](images/data_wrang_3.png '')
+<details>
+<summary>ChatGPT narrates the story of Jesus’ crucifixion in the style of a sportscaster</summary>
+<br>
+- https://twitter.com/GanWeaving/status/1599838283550244864?s=20&t=7jAbTF0cSLM1H9rt9NCqew
 
-- ChatGPT can solve undergrad-level problems on computational complexity
-  - https://twitter.com/OfirPress/status/1600434732705415171?s=20&t=g0-mWJ24npbxlXQQ8Loczw
-    ![](images/comp_complexity_1.png '')
-    ![](images/comp_complexity_2.png '')
+  ![](images/jesus_crucifixion_1.png '')
+  ![](images/jesus_crucifixion_2.png '')
+</details>
 
-- ChatGPT can execute complicated programs if you ask it to print all state updates
-  - https://twitter.com/GrantSlatton/status/1600388425651453953?s=20&t=g0-mWJ24npbxlXQQ8Loczw
-    ![](images/prog_exec_1.png '')
-    ![](images/prog_exec_2.png '')
+<details>
+<summary>ChatGPT can translate code between languages</summary>
+<br>
+- https://twitter.com/rdias002/status/1600019405303611392?s=20&t=7jAbTF0cSLM1H9rt9NCqew
 
-- Using ChatGPT for generating marketing schemes
-  - https://twitter.com/heykahn/status/1599749880515244034?s=20&t=VZfUXFnjm0vVLqwP5VjfeA
-    ![](images/seo_strategy.png '')
+  ![](images/code_translation_1.png '')
+  ![](images/code_translation_2.png '')
+</details>
 
-- ChatGPT as a research assistant working on a new research idea
-  - https://twitter.com/SamuelAlbanie/status/1600950546256777216?s=20&t=WG7o3A2teeeDjYOh3kkorQ
-  ![](images/research_assistant_1.png '')
-  ![](images/research_assistant_2.png '')
-  ![](images/research_assistant_3.png '')
+<details>
+<summary>Data wrangling and manipulation using ChatGPT</summary>
+<br>
+- https://twitter.com/DataChaz/status/1600135591877742592?s=20&t=FldJBA2NKeurC3LY2JtSIg
 
-- ChatGPT IQ and personality test -- IQ of 82 / personality test - ISTJ
-  - https://twitter.com/debarghya_das/status/1601044729759641600
-    ![](images/personality_test_istj_a.png '')
-  - https://twitter.com/Aella_Girl/status/1601378034317111296?s=20&t=X8hCUxTEDLllTz1FaHKYSQ (personality test - ISTJ)
+  ![](images/data_wrang_1.png '')
+  ![](images/data_wrang_2.png '')
+  ![](images/data_wrang_3.png '')
+</details>
+    
+<details>
+<summary>ChatGPT can solve undergrad-level problems on computational complexity</summary>
+<br>
+- https://twitter.com/OfirPress/status/1600434732705415171?s=20&t=g0-mWJ24npbxlXQQ8Loczw
 
-- Use ChatGPT to attempt the AWS cloud certification. ChatGPT: 800 / 1000 -- pass score is 720
-  - https://twitter.com/StephaneMaarek/status/1600864604220964871?s=20&t=f20SUicqapNaRTKoAR2xnQ
-    ![](images/aws_cloud_cert.png '')
+![](images/comp_complexity_1.png '')
+![](images/comp_complexity_2.png '')
+</details>
 
-- Thank you note to students using ChatGPT
-  - https://twitter.com/jbhuang0604/status/1601020898303438849?s=20&t=f20SUicqapNaRTKoAR2xnQ
-    ![](images/email_thank_students.png '')
+<details>
+<summary>ChatGPT can execute complicated programs if you ask it to print all state updates</summary>
+<br>
+- https://twitter.com/GrantSlatton/status/1600388425651453953?s=20&t=g0-mWJ24npbxlXQQ8Loczw
 
-- Writing a cold email to a professor expressing your interest in their research
-  - https://twitter.com/CSProfKGD/status/1601222306562740225?s=20&t=f20SUicqapNaRTKoAR2xnQ
-    ![](images/email_potential_advisor.png '')
+![](images/prog_exec_1.png '')
+![](images/prog_exec_2.png '')
+</details>
 
-- Playing chess using natural language interface
-  - https://twitter.com/MattNiessner/status/1601549899010822144?s=20&t=dJzFmbEwQLtJfB6xYc1AMw
-  - https://www.chess.com/forum/view/general/chat-gpt
-    ![](images/chess_moves.png '')
+<details>
+<summary>Using ChatGPT for generating marketing schemes</summary>
+<br>
+- https://twitter.com/heykahn/status/1599749880515244034?s=20&t=VZfUXFnjm0vVLqwP5VjfeA
 
-- Using ChatGPT to play Tetris
-  - https://twitter.com/zehavoc/status/1599193444043268096
-    ![](images/tetris.png '')
+![](images/seo_strategy.png '')
+</details>
 
-- Using ChatGPT to play Tic Tac Toe
-  - https://twitter.com/zehavoc/status/1599196623141470208
-    ![](images/tic_tac_toe.png '')
 
-- Using ChatGPT to for object recognition based on a textual description of the given image
-  - https://twitter.com/J_Roberts_1/status/1600931039446151168
-    ![](images/object_recog.png '')
+<details>
+<summary>ChatGPT as a research assistant working on a new research idea</summary>
+<br>
+- https://twitter.com/SamuelAlbanie/status/1600950546256777216?s=20&t=WG7o3A2teeeDjYOh3kkorQ
 
-- Use ChatGPT as a search engine
-  - https://twitter.com/jdjkelly/status/1598021488795586561
-    ![](images/search_engine_1.png '')
-    ![](images/search_engine_2.png '')
+![](images/research_assistant_1.png '')
+![](images/research_assistant_2.png '')
+![](images/research_assistant_3.png '')
+</details>
 
-- Using ChatGPT as an email writing assistant
-  - https://twitter.com/MatiasNisenson/status/1599186490483150850?s=20&t=hX3fNnQ97jNVJ1aSoH8MCg
-    ![](images/email_ceo.png '')
+<details>
+<summary>ChatGPT IQ and personality test -- IQ of 82 / personality test - ISTJ</summary>
+<br>
+- https://twitter.com/debarghya_das/status/1601044729759641600
+- https://twitter.com/Aella_Girl/status/1601378034317111296?s=20&t=X8hCUxTEDLllTz1FaHKYSQ (personality test - ISTJ)
 
-- ChatGPT has significant knowledge of computer vision models
-  - https://twitter.com/ahatamiz1/status/1601671185699606528?s=20&t=s7ByjiyFIh7uPDE7T3YQMA
-    ![](images/vit_swin_comp.png '')
+![](images/personality_test_istj_a.png '')
+</details>
 
-- Use ChatGPT to attempt the practice bar exam -- passed with 70% marks
-  - https://twitter.com/pythonprimes/status/1601664776194912256?s=20&t=mJ1m-NJAb_o8DFmsuiRQfg
-    ![](images/bar_exam.png '')
+<details>
+<summary>Use ChatGPT to attempt the AWS cloud certification. ChatGPT: 800 / 1000 -- pass score is 720</summary>
+<br>
+- https://twitter.com/StephaneMaarek/status/1600864604220964871?s=20&t=f20SUicqapNaRTKoAR2xnQ
 
-- Use ChatGPT to write unit tests
-  - https://twitter.com/DataChaz/status/1601982020279832577?s=20&t=KPYtMZP8EhRetVY1LAExMQ
-    ![](images/unit_tests.png '')
+![](images/aws_cloud_cert.png '')
+</details>
 
-- Using ChatGPT to create virtual chat room
-  - https://twitter.com/DataChaz/status/1601982020279832577?s=20&t=KPYtMZP8EhRetVY1LAExMQ
-    ![](images/chat_dnd.png '')
+<details>
+<summary>Thank you note to students using ChatGPT</summary>
+<br>
+- https://twitter.com/jbhuang0604/status/1601020898303438849?s=20&t=f20SUicqapNaRTKoAR2xnQ
 
-- Using ChatGPT as a "BF simulator"
-  - https://twitter.com/michael_nielsen/status/1598476830272802816
-    ![](images/bf_simulator.png '')
+![](images/email_thank_students.png '')
+</details>
+
+<details>
+<summary>Writing a cold email to a professor expressing your interest in their research</summary>
+<br>
+- https://twitter.com/CSProfKGD/status/1601222306562740225?s=20&t=f20SUicqapNaRTKoAR2xnQ
+
+![](images/email_potential_advisor.png '')
+</details>
+
+<details>
+<summary>Playing chess using natural language interface</summary>
+<br>
+- https://twitter.com/MattNiessner/status/1601549899010822144?s=20&t=dJzFmbEwQLtJfB6xYc1AMw
+- https://www.chess.com/forum/view/general/chat-gpt
+
+![](images/chess_moves.png '')
+</details>
+
+<details>
+<summary>Using ChatGPT to play Tetris</summary>
+<br>
+- https://twitter.com/zehavoc/status/1599193444043268096
+
+![](images/tetris.png '')
+</details>
+
+<details>
+<summary>Using ChatGPT to play Tic Tac Toe</summary>
+<br>
+- https://twitter.com/zehavoc/status/1599196623141470208
+
+![](images/tic_tac_toe.png '')
+</details>
+
+<details>
+<summary>Using ChatGPT to for object recognition based on a textual description of the given image</summary>
+<br>
+- https://twitter.com/J_Roberts_1/status/1600931039446151168
+
+![](images/object_recog.png '')
+</details>
+
+<details>
+<summary>Use ChatGPT as a search engine</summary>
+<br>
+- https://twitter.com/jdjkelly/status/1598021488795586561
+
+![](images/search_engine_1.png '')
+![](images/search_engine_2.png '')
+</details>
+
+<details>
+<summary>Using ChatGPT as an email writing assistant</summary>
+<br>
+- https://twitter.com/MatiasNisenson/status/1599186490483150850?s=20&t=hX3fNnQ97jNVJ1aSoH8MCg
+
+![](images/email_ceo.png '')
+</details>
+
+<details>
+<summary>ChatGPT has significant knowledge of computer vision models</summary>
+<br>
+- https://twitter.com/ahatamiz1/status/1601671185699606528?s=20&t=s7ByjiyFIh7uPDE7T3YQMA
+
+![](images/vit_swin_comp.png '')
+</details>
+
+<details>
+<summary>Use ChatGPT to attempt the practice bar exam -- passed with 70% marks</summary>
+<br>
+- https://twitter.com/pythonprimes/status/1601664776194912256?s=20&t=mJ1m-NJAb_o8DFmsuiRQfg
+
+![](images/bar_exam.png '')
+</details>
+
+<details>
+<summary>Use ChatGPT to write unit tests</summary>
+<br>
+- https://twitter.com/DataChaz/status/1601982020279832577?s=20&t=KPYtMZP8EhRetVY1LAExMQ
+
+![](images/unit_tests.png '')
+</details>
+
+<details>
+<summary>Using ChatGPT to create virtual chat room</summary>
+<br>
+- https://twitter.com/DataChaz/status/1601982020279832577?s=20&t=KPYtMZP8EhRetVY1LAExMQ
+
+![](images/chat_dnd.png '')
+</details>
+
+<details>
+<summary>Using ChatGPT as a "BF simulator"</summary>
+<br>
+- https://twitter.com/michael_nielsen/status/1598476830272802816
+
+![](images/bf_simulator.png '')
+</details>
 
 
 ## Analysis / Failure Cases
