@@ -1,6 +1,6 @@
 # Awesome ChatGPT
 
-This is a small document containing interesting demos / analysis done on top of ChatGPT.
+This repo summarises interesting demos / analysis with ChatGPT.
 
 Table of Contents:
 - [Awesome ChatGPT](#awesome-chatgpt)
