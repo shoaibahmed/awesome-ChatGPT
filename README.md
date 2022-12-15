@@ -753,7 +753,7 @@ Table of Contents:
 - A good discussion on trying to reproduce some failure cases of GPT-davinci-002 -- mostly, ChatGPT succeeds, leaving the previous analysis of failure cases ineffective
   - https://twitter.com/stanislavfort/status/1599417463199830017
 
-- Way to get around ChatGPT's safeguards
+- Ways to get around ChatGPT's safeguards
   - https://twitter.com/davisblalock/status/1602600453555961856?s=20&t=uaLkWR6vEzU_KnPkxFli7g
 
 
