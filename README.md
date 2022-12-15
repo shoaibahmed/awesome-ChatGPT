@@ -595,6 +595,15 @@ Table of Contents:
   ![](images/bf_simulator.png '')
 </details>
 
+<details>
+<summary>Ask ChatGPT to generate a new human emotion</summary>
+<br>
+
+- https://twitter.com/TobiasJolly/status/1603083739852046337?s=20&t=WYFRpchkDqK_rISIbtmJ1g
+
+  ![](images/new_emotion.png '')
+</details>
+
 
 ## Analysis / Failure Cases
 
