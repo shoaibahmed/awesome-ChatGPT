@@ -615,6 +615,16 @@ Table of Contents:
   ![](images/adobe_bargain_3.png '')
 </details>
 
+<details>
+<summary>ChatGPT obtains SoTA accuracy on the Tuebingen causal discovery benchmark</summary>
+<br>
+
+- https://twitter.com/amt_shrma/status/1605240883149799424?s=20&t=11bpq35EUUQ-uue1h-N0hw
+
+  ![](images/causal_discovery_1.png '')
+  ![](images/causal_discovery_2.png '')
+</details>
+
 
 ## Analysis / Failure Cases
 
