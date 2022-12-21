@@ -791,7 +791,23 @@ Table of Contents:
   ![](images/telegram_bot_2.png '')
 </details>
 
+<details>
+<summary>ChatGPT VS Code extension - automatically write new code from scratch, ask questions, get explanations, refactor code, find bugs and more!</summary>
+  
+  - https://github.com/mpociot/chatgpt-vscode
+  - https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt 
 
+    ![](images/ChatGPT_VSCode.png '')
+</details>
+ 
+<details>
+<summary>ChatGPT Twitter bot</summary>
+  
+  - https://twitter.com/chatgptbot
+
+    ![](images/ChatGPT_twitter_bot.png '')
+</details>
+  
 ## ChatGPT News
 
 - Stack overflow has banned users from posting chatgpt-based generated content
