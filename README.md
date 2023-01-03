@@ -774,12 +774,14 @@ Table of Contents:
 
 ## ChatGPT Utilities
 
-- Chrome extension that allows ChatGPT to search the internet
-  - https://twitter.com/hahahahohohe/status/1599839969396154369?s=20&t=vCy1yu328mi0ae9JCOHaQw
-    <!-- ![](images/search_web_util.png '') -->
+<details>
+<summary>An API wrapper around ChatGPT's web interface</summary>
+<br>
 
-- Screenshot browser extension to help save ChatGPT outputs
-  - https://twitter.com/Saboo_Shubham_/status/1600035851525918720
+- https://github.com/acheong08/ChatGPT
+
+  ![](images/chatgpt_api.png '')
+</details>
 
 <details>
 <summary>ChatGPT integration for Telegram (also supports Dall-E / Stable Diffusion)</summary>
@@ -807,7 +809,15 @@ Table of Contents:
 
     ![](images/ChatGPT_twitter_bot.png '')
 </details>
-  
+
+- Chrome extension that allows ChatGPT to search the internet
+  - https://twitter.com/hahahahohohe/status/1599839969396154369?s=20&t=vCy1yu328mi0ae9JCOHaQw
+    <!-- ![](images/search_web_util.png '') -->
+
+- Screenshot browser extension to help save ChatGPT outputs
+  - https://twitter.com/Saboo_Shubham_/status/1600035851525918720
+
+
 ## ChatGPT News
 
 - Stack overflow has banned users from posting chatgpt-based generated content
