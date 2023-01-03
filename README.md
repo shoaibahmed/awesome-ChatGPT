@@ -625,6 +625,15 @@ Table of Contents:
   ![](images/causal_discovery_2.png '')
 </details>
 
+<details>
+<summary>Deminify JavaScript code with descriptive variable names using ChatGPT</summary>
+<br>
+
+- https://twitter.com/mathemagic1an/status/1610147883894079488?s=20&t=Nm_qtlv4Vx47oi8pX0-kDQ
+
+  ![](images/deminify_js.png '')
+</details>
+
 
 ## Analysis / Failure Cases
 
