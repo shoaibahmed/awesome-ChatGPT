@@ -6,7 +6,7 @@ Table of Contents:
 - [Awesome ChatGPT](#awesome-chatgpt)
   - [Cool Demos](#cool-demos)
   - [Analysis / Failure Cases](#analysis--failure-cases)
-  - [Twitter Threads](#twitter-threads)
+  - [Threads](#threads)
   - [ChatGPT Utilities](#chatgpt-utilities)
   - [ChatGPT News](#chatgpt-news)
   - [Missing something?](#missing-something)
@@ -755,7 +755,10 @@ Table of Contents:
 </details>
 
 
-## Twitter Threads
+## Threads
+
+- An amazing list of ChatGPT prompts to elicit different behaviors from the model
+    - https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
 
 - A very recent ChatGPT account posting interesting stuff
     - https://twitter.com/ChatGPTGoneWild
