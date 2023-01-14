@@ -754,6 +754,15 @@ Table of Contents:
   ![](images/write_unintelligible_reprod.png '')
 </details>
 
+<details>
+<summary>ChatGPT attributed as a co-author on a research paper</summary>
+<br>
+
+- https://www.sciencedirect.com/science/article/pii/S1471595322002517
+
+  ![](images/chatgpt_paper.png '')
+</details>
+
 
 ## Threads
 
