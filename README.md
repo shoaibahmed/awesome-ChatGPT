@@ -867,8 +867,17 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
 
   ![](images/chatgpt_api_tweet.png '')
 </details>
- 
 
+## Detecting AI generated content
+
+<details>
+<summary>GPTZero: Performs detection using Perplexities computed using 350M parameter GPT-2 model</summary>
+<br>
+
+- https://gptzero.me/
+
+  ![](images/gptzero.png '')
+</details>
 
 ## Missing something?
 
