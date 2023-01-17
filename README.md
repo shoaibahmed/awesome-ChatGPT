@@ -10,6 +10,7 @@ Table of Contents:
   - [ChatGPT Utilities](#chatgpt-utilities)
   - [Papers authored by ChatGPT](#papers-authored-by-chatgpt)
   - [ChatGPT News](#chatgpt-news)
+  - [Detecting AI generated content](#detecting-ai-generated-content)
   - [Missing something?](#missing-something)
   - [License](#license)
 
