@@ -8,6 +8,7 @@ Table of Contents:
   - [Analysis / Failure Cases](#analysis--failure-cases)
   - [Threads](#threads)
   - [ChatGPT Utilities](#chatgpt-utilities)
+  - [Papers authored by ChatGPT](#papers-authored-by-chatgpt)
   - [ChatGPT News](#chatgpt-news)
   - [Missing something?](#missing-something)
   - [License](#license)
@@ -754,15 +755,6 @@ Table of Contents:
   ![](images/write_unintelligible_reprod.png '')
 </details>
 
-<details>
-<summary>ChatGPT attributed as a co-author on a research paper</summary>
-<br>
-
-- https://www.sciencedirect.com/science/article/pii/S1471595322002517
-
-  ![](images/chatgpt_paper.png '')
-</details>
-
 
 ## Threads
 
@@ -837,6 +829,28 @@ Table of Contents:
 
 - Screenshot browser extension to help save ChatGPT outputs
   - https://twitter.com/Saboo_Shubham_/status/1600035851525918720
+
+
+## Papers authored by ChatGPT
+Due to its usefulness in aiding academic research, ChatGPT has begun to be named as an author on papers.
+
+<details>
+<summary>Open artificial intelligence platforms in nursing education: Tools for academic progress or abuse?</summary>
+<br>
+
+- https://www.sciencedirect.com/science/article/pii/S1471595322002517
+
+  ![](images/chatgpt_paper.png '')
+</details>
+
+<details>
+<summary>Performance of ChatGPT on USMLE: Potential for AI-Assisted Medical Education Using Large Language Models</summary>
+<br>
+
+- https://europepmc.org/article/PPR/PPR586708
+
+  ![](images/chatgpt_paper2.png '')
+</details>
 
 
 ## ChatGPT News
