@@ -858,6 +858,16 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
 - Stack overflow has banned users from posting chatgpt-based generated content
   - https://twitter.com/jjvincent/status/1599743434360639489?s=20&t=vCy1yu328mi0ae9JCOHaQw
   - https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned
+  
+<details>
+<summary>Official ChatGPT API update</summary>
+<br>
+
+- https://twitter.com/OpenAI/status/1615160228366147585
+
+  ![](images/chatgpt_api_tweet.png '')
+</details>
+ 
 
 
 ## Missing something?
