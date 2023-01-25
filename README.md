@@ -11,6 +11,7 @@ Table of Contents:
   - [Papers authored by ChatGPT](#papers-authored-by-chatgpt)
   - [ChatGPT News](#chatgpt-news)
   - [Detecting AI generated content](#detecting-ai-generated-content)
+  - [Competitors](#competitors)
   - [Missing something?](#missing-something)
   - [License](#license)
 
@@ -879,6 +880,11 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
 
   ![](images/gptzero.png '')
 </details>
+
+## Competitors
+
+- Claude, Anthropic - https://scale.com/blog/chatgpt-vs-claude
+- Sparrow, DeepMind - https://www.deepmind.com/blog/building-safer-dialogue-agents
 
 ## Missing something?
 
