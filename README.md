@@ -854,6 +854,15 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
   ![](images/chatgpt_paper2.png '')
 </details>
 
+<details>
+<summary>A Conversation on Artificial Intelligence, Chatbots, and Plagiarism in Higher Education</summary>
+<br>
+
+- https://link.springer.com/article/10.1007/s12195-022-00754-8
+
+  ![](images/chatgpt_paper3.png '')
+</details>
+
 
 ## ChatGPT News
 
