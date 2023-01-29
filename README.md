@@ -637,6 +637,14 @@ Table of Contents:
   ![](images/deminify_js.png '')
 </details>
 
+<details>
+<summary>ChatGPT passes as a C+ student on 4 real exams at the University of Minnesota Law School</summary>
+<br>
+
+- https://twitter.com/johnjnay/status/1619412924623368193?s=20&t=QnIMyfOFUW7PNgSaP-Cmgw
+
+  ![](images/lawschool_uni_minnesota.png '')
+</details>
 
 ## Analysis / Failure Cases
 
