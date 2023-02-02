@@ -887,6 +887,25 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
   ![](images/chatgpt_api_tweet.png '')
 </details>
 
+<details>
+<summary>AI-Written Text Classifier</summary>
+<br>
+
+- https://twitter.com/OpenAI/status/1620484691462852609
+
+  ![](images/ai_written_classifier.png '')
+</details>
+
+<details>
+<summary>ChatGPT Plus</summary>
+<br>
+
+- https://www.bbc.co.uk/news/technology-64492750
+- https://twitter.com/OpenAI/status/1620846589949640705
+
+  ![](images/chatgpt_plus_tweet.png '')
+</details>
+
 ## Detecting AI generated content
 
 <details>
