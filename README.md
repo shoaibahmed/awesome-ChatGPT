@@ -917,6 +917,35 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
   ![](images/gptzero.png '')
 </details>
 
+<details>
+<summary>OpenAI machine generated content classifier</summary>
+<br>
+
+- https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/
+
+  ![](images/openai_machine_text_classifier.png '')
+</details>
+
+<details>
+<summary>Watermark for LLMs to detect machine generated content</summary>
+<br>
+
+- https://arxiv.org/abs/2301.10226
+
+  ![](images/watermarking_llm.png '')
+</details>
+
+<details>
+<summary>DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature</summary>
+<br>
+
+- https://ericmitchell.ai/detectgpt/
+
+- https://arxiv.org/abs/2301.11305
+
+  ![](images/detect_gpt.png '')
+</details>
+
 ## Competitors
 
 - Claude, Anthropic - https://scale.com/blog/chatgpt-vs-claude
