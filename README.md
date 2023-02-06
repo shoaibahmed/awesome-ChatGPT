@@ -765,6 +765,15 @@ Table of Contents:
   ![](images/write_unintelligible_reprod.png '')
 </details>
 
+<details>
+<summary>ChatGPT says that it is never morally permissible to utter a racist slur even if that can stop a nuclear bomb from killing millions of people</summary>
+<br>
+
+- https://twitter.com/aaronsibarium/status/1622425697812627457?s=20&t=yPfUsQLT_jZOK7ttRrnhMw
+
+  ![](images/chatgpt_nuclear_racist_slur.png '')
+</details>
+
 
 ## Threads
 
