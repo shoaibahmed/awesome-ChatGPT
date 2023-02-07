@@ -2,7 +2,12 @@
 
 This repo summarises interesting demos / analysis with ChatGPT.
 
-Table of Contents:
+## Latest News: 🎉
+
+- 6/2/23: [Google announces ChatGPT rival](https://www.bbc.co.uk/news/technology-64546299)
+- 2/2/23: [ChatGPT reaches 100 million users](https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app)
+
+## Table of Contents:
 - [Awesome ChatGPT](#awesome-chatgpt)
   - [Cool Demos](#cool-demos)
   - [Analysis / Failure Cases](#analysis--failure-cases)
@@ -914,6 +919,25 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
 
   ![](images/chatgpt_plus_tweet.png '')
 </details>
+
+<details>
+<summary>ChatGPT reaches 100 million users</summary>
+<br>
+
+- https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app
+
+  ![](images/chatgpt_100million_users.png '')
+</details>
+
+<details>
+<summary>Google announces ChatGPT rival</summary>
+<br>
+
+- https://www.bbc.co.uk/news/technology-64546299
+
+  ![](images/chatgpt_rival.png '')
+</details>
+
 
 ## Detecting AI generated content
 
