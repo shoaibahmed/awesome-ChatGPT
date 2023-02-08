@@ -809,6 +809,8 @@ This repo summarises interesting demos / analysis with ChatGPT.
   - https://twitter.com/sama/status/1599671496636780546
   - https://twitter.com/nbashaw/status/1599949577821786113
 
+- GitHub repository summarizing specifically the failure modes of ChatGPT
+  - https://github.com/giuven95/chatgpt-failures
 
 ## ChatGPT Utilities
 
