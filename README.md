@@ -4,12 +4,15 @@ This repo summarises interesting demos / analysis with ChatGPT.
 
 ## Latest News: 🎉
 
+- 1/3/23: [ChatGPT API released](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 - 7/2/23: [GPT successor integrated into Bing search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)
 - 6/2/23: [Google announces ChatGPT rival](https://www.bbc.co.uk/news/technology-64546299)
 - 2/2/23: [ChatGPT reaches 100 million users](https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app)
 
 ## Table of Contents:
 - [Awesome ChatGPT](#awesome-chatgpt)
+  - [Latest News: 🎉](#latest-news-)
+  - [Table of Contents:](#table-of-contents)
   - [Cool Demos](#cool-demos)
   - [Analysis / Failure Cases](#analysis--failure-cases)
   - [Threads](#threads)
