@@ -4,6 +4,7 @@ This repo summarises interesting demos / analysis with ChatGPT.
 
 ## Latest News: 🎉
 
+- 9/3/23: [ChatGPT integrated with other foundation models to be able to process images](https://github.com/microsoft/visual-chatgpt)
 - 1/3/23: [ChatGPT API released](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 - 7/2/23: [GPT successor integrated into Bing search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)
 - 6/2/23: [Google announces ChatGPT rival](https://www.bbc.co.uk/news/technology-64546299)
@@ -816,6 +817,15 @@ This repo summarises interesting demos / analysis with ChatGPT.
   - https://github.com/giuven95/chatgpt-failures
 
 ## ChatGPT Utilities
+
+<details>
+<summary>ChatGPT integrated with other foundation models by Microsoft to enable processing of images</summary>
+<br>
+
+- https://github.com/microsoft/visual-chatgpt
+
+  ![](images/visual_chatgpt.jpg '')
+</details>
 
 <details>
 <summary>An API wrapper around ChatGPT's web interface</summary>
