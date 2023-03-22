@@ -10,10 +10,14 @@ This repo summarises interesting demos / analysis with ChatGPT.
 - 6/2/23: [Google announces ChatGPT rival](https://www.bbc.co.uk/news/technology-64546299)
 - 2/2/23: [ChatGPT reaches 100 million users](https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app)
 
+## Related Repositories
+GPT-4 - [awesome-GPT-4](https://github.com/jonathan-roberts1/awesome-GPT-4)
+
 ## Table of Contents:
 - [Awesome ChatGPT](#awesome-chatgpt)
-  - [Latest News: 🎉](#latest-news-)
-  - [Table of Contents:](#table-of-contents)
+  - [Latest News 🎉](#latest-news-)
+  - [Related Repositories](#related-repositories)
+  - [Table of Contents](#table-of-contents)
   - [Cool Demos](#cool-demos)
   - [Analysis / Failure Cases](#analysis--failure-cases)
   - [Threads](#threads)
