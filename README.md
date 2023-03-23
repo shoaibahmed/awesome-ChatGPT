@@ -2,21 +2,24 @@
 
 This repo summarises interesting demos / analysis with ChatGPT.
 
-## Latest News: 🎉
+## Latest News 🎉
 
+- 23/3/23: [ChatGPT Plugins announced](https://openai.com/blog/chatgpt-plugins)
 - 9/3/23: [ChatGPT integrated with other foundation models to be able to process images](https://github.com/microsoft/visual-chatgpt)
 - 1/3/23: [ChatGPT API released](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 - 7/2/23: [GPT successor integrated into Bing search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)
 - 6/2/23: [Google announces ChatGPT rival](https://www.bbc.co.uk/news/technology-64546299)
 - 2/2/23: [ChatGPT reaches 100 million users](https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app)
 
-## Related Repositories
-GPT-4 - [awesome-GPT-4](https://github.com/jonathan-roberts1/awesome-GPT-4)
+## Migration to GPT-4
 
-## Table of Contents:
+We are maintaining a new repository for interesting GPT-4 demos and analysis.
+Please do check it out: [awesome-GPT-4](https://github.com/jonathan-roberts1/awesome-GPT-4)
+
+## Table of Contents
 - [Awesome ChatGPT](#awesome-chatgpt)
   - [Latest News 🎉](#latest-news-)
-  - [Related Repositories](#related-repositories)
+  - [Migration to GPT-4](#migration-to-gpt-4)
   - [Table of Contents](#table-of-contents)
   - [Cool Demos](#cool-demos)
   - [Analysis / Failure Cases](#analysis--failure-cases)
