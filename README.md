@@ -663,7 +663,15 @@ Please do check it out: [awesome-GPT-4](https://github.com/jonathan-roberts1/awe
   ![](images/lawschool_uni_minnesota.png '')
 </details>
 
+
 ## Analysis / Failure Cases
+
+<details>
+<summary>ChatGPT being sued by an Australian mayor for falsely accusing him of sexually harassing his students</summary>
+<br>
+
+- https://twitter.com/JonathanTurley/status/1643681636452638738?s=20
+</details>
 
 <details>
 <summary>Analysis of the context window size for ChatGPT (estimated context window size is ~8192)</summary>
@@ -823,6 +831,7 @@ Please do check it out: [awesome-GPT-4](https://github.com/jonathan-roberts1/awe
 - GitHub repository summarizing specifically the failure modes of ChatGPT
   - https://github.com/giuven95/chatgpt-failures
 
+
 ## ChatGPT Utilities
 
 <details>
@@ -969,6 +978,7 @@ Due to its usefulness in aiding academic research, ChatGPT has begun to be named
 
   ![](images/gpt_powered_bing.png '')
 </details>
+
 
 ## Detecting AI generated content
 
